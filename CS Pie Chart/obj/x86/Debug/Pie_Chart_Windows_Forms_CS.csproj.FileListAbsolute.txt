@@ -1,0 +1,16 @@
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\bin\Debug\Pie_Chart_Windows_Forms_CS.exe
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\bin\Debug\Pie_Chart_Windows_Forms_CS.pdb
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.Form1.resources
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.Properties.Resources.resources
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.csproj.GenerateResource.Cache
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.exe
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.pdb
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.csprojResolveAssemblyReference.cache
+C:\Users\owenc\Downloads\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.exe
+C:\Users\owenc\Downloads\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.pdb
+C:\Users\owenc\Downloads\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\bin\Debug\Pie_Chart_Windows_Forms_CS.exe
+C:\Users\owenc\Downloads\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\bin\Debug\Pie_Chart_Windows_Forms_CS.pdb
+C:\Users\owenc\Downloads\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.csprojResolveAssemblyReference.cache
+C:\Users\owenc\Downloads\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.Form1.resources
+C:\Users\owenc\Downloads\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.Properties.Resources.resources
+C:\Users\owenc\Downloads\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.csproj.GenerateResource.Cache
