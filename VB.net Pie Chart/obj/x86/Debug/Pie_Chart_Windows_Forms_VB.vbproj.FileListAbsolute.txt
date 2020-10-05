@@ -1,0 +1,9 @@
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_VB\bin\Debug\Pie_Chart_Windows_Forms_VB.exe
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_VB\bin\Debug\Pie_Chart_Windows_Forms_VB.pdb
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_VB\bin\Debug\Pie_Chart_Windows_Forms_VB.xml
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_VB\obj\x86\Debug\Pie_Chart_Windows_Forms_VB.Form1.resources
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_VB\obj\x86\Debug\Pie_Chart_Windows_Forms_VB.Resources.resources
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_VB\obj\x86\Debug\Pie_Chart_Windows_Forms_VB.vbproj.GenerateResource.Cache
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_VB\obj\x86\Debug\Pie_Chart_Windows_Forms_VB.exe
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_VB\obj\x86\Debug\Pie_Chart_Windows_Forms_VB.xml
+D:\Dropbox\Samples\Windows\Pie_Chart_Windows_Forms\Pie_Chart_Windows_Forms_VB\obj\x86\Debug\Pie_Chart_Windows_Forms_VB.pdb
